@@ -1,5 +1,7 @@
 'use strict';
 
+// Source: https://github.com/DmitryEfimenko/ngDownloadResponse
+
 // directive allows to provide a function to be executed to get data to be downloaded
 // attributes:
 // download-response - Required. Function to get data. It must return a promise. It must be declared on the $scope.
